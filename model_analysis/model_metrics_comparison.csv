@@ -1,0 +1,5 @@
+Model,Test MAE,Convergence (epochs),Model Size (params)
+BiLSTM_Attention_Network,0.03894544020295143,41,78659
+Temporal_Convolutional_Network,0.039577316492795944,36,54499
+LSTM_CNN_Hybrid,0.039694588631391525,43,72867
+DeepPerformanceNet,0.04025911167263985,49,92355
