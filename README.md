@@ -91,7 +91,7 @@ python predict.py
 * **Best MAE**: `BiLSTM_Attention_Network`
 * **Most Efficient**: `Temporal_Convolutional_Network`
 
-![Model Comparison Chart](model_analysis\model_comparison.png)
+![Model Comparison Chart](model_analysis/model_comparison.png)
 
 | Model                          | Test MAE | Convergence (Epochs) | Model Size (Params) |
 | ------------------------------ | -------- | -------------------- | ------------------- |
